@@ -1,8 +1,1 @@
-<html>
-<head>
-  <meta charset="utf-8">
-</head>
-<body>
-  <p>根据<a href="http://ife.baidu.com/task/all" target="_blank">百度前段技术学院2016春季班学习任务</a>自学成果</p>
-</body>
-</html>
+根据[百度前段技术学院2016春季班](http://ife.baidu.com/task/all)任务完成代码
