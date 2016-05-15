@@ -1,4 +1,3 @@
-# ife2016
 <!doctype html>
 <html>
 <head>
